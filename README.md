@@ -1,6 +1,16 @@
 # Online-Retail-Customer-Segementaion
 
 In this project, our task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all- occasion gifts. Many customers of the company are wholesalers.
+Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing 
+such as gender, age, interests, and miscellaneous spending habits. Customer Segmentation is one the most 
+important applications of unsupervised 
+learning. Using clustering techniques, 
+companies can identify the several segments 
+of customers allowing them to target the 
+potential user base. In this machine learning 
+project, we will make use of K-Means 
+clustering which is the essential algorithm 
+for clustering unlabelled dataset. 
 
 
 
